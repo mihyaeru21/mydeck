@@ -1,0 +1,19 @@
+{
+  "name": "mydeck",
+  "version": "0.1.0",
+  "description": "TweetDeck App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihyaeru21/mydeck.git"
+  },
+  "author": "Mihyaeru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mihyaeru21/mydeck/issues"
+  },
+  "homepage": "https://github.com/mihyaeru21/mydeck#readme"
+}
