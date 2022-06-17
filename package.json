@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mihyaeru21/mydeck#readme",
   "devDependencies": {
-    "electron": "^9.1.0"
+    "electron": "^15.5.5"
   }
 }
